@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazon.API", "Blazon.API\Blazon.API.csproj", "{4C07E75E-AD1E-4ACD-A277-0D661045046A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Blazon.Client", "Blazon.Client\Blazon.Client.esproj", "{E96639CD-88F1-453D-B582-85AC6DF10105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C07E75E-AD1E-4ACD-A277-0D661045046A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C07E75E-AD1E-4ACD-A277-0D661045046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C07E75E-AD1E-4ACD-A277-0D661045046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C07E75E-AD1E-4ACD-A277-0D661045046A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96639CD-88F1-453D-B582-85AC6DF10105}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CD934F-3A7D-4B83-BB3F-9C11E17FE4E1}
+	EndGlobalSection
+EndGlobal
