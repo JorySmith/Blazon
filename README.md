@@ -1,2 +1,2 @@
 # Blazon
- Full-stack app dating app.
+ A full-stack dating app.
